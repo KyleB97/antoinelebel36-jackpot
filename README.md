@@ -4,7 +4,8 @@ Site:
 	User: 
 		Steam Login
 		Set Trade Link
-	CSGO:
+		Free Credits for site in name
+	CSGO & Rust:
 		Deposit 
 		Withdraw
 		Roulette
@@ -30,6 +31,8 @@ Site:
 				Percentage cut per round
 			Bot Settings:
 				Master Steam Account
+			Free Credit Settings:
+				Amount
 	Cron Jobs:
 		CSGO Item Price Update
 		Rust Item Price Update
